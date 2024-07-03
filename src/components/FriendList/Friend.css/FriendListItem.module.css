@@ -1,0 +1,30 @@
+.friendItem {
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 150px;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+}
+
+.name {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.friendStatus {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
